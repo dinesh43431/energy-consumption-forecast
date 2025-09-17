@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 #  App config
 st.set_page_config(page_title="Energy Consumption Forecast", layout="centered")
-st.title("⚡ Energy Consumption Forecast")
+st.title(" Energy Consumption Forecast")
 st.markdown("Upload your energy consumption data (CSV with **Date** and **Consumption** columns).")
 
 #  File uploader
